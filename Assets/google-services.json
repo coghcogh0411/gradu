@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "550087852026",
+    "firebase_url": "https://graduation-5bbb7-default-rtdb.firebaseio.com",
+    "project_id": "graduation-5bbb7",
+    "storage_bucket": "graduation-5bbb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550087852026:android:581dff71a0f4c3ead2ee43",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.com.unity.template.urpblank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8x8alCUebH2guBcwxKAbqFcozsHU5siU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
